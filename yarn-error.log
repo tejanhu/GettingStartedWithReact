@@ -1,0 +1,31 @@
+Arguments: 
+  /usr/local/bin/node /usr/local/bin/yarn start
+
+PATH: 
+  /Library/Frameworks/Python.framework/Versions/3.8/bin://anaconda/bin:/Library/Frameworks/Python.framework/Versions/3.6/bin:/Library/Frameworks/Python.framework/Versions/3.5/bin:/Library/Frameworks/Python.framework/Versions/3.5/bin:/Applications/MAMP/bin/php/php7.0.0/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/usr/local/mysql/bin:/Users/HusseinATejan/opt/anaconda3/bin:/Users/HusseinATejan/opt/anaconda3/condabin:/Library/Frameworks/Python.framework/Versions/3.8/bin://anaconda/bin:/Library/Frameworks/Python.framework/Versions/3.6/bin:/Library/Frameworks/Python.framework/Versions/3.5/bin:/Applications/MAMP/bin/php/php7.0.0/bin:/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home:/Users/HusseinATejan/apache-maven-3.5.4/bin:/Users/HusseinATejan/Downloads/webdrivers/firefox:/Users/HusseinATejan/Downloads/webdrivers/chrome:/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home:/Users/HusseinATejan/apache-maven-3.5.4/bin:/Users/HusseinATejan/Downloads/webdrivers/firefox:/Users/HusseinATejan/Downloads/webdrivers/chrome
+
+Yarn version: 
+  1.5.1
+
+Node version: 
+  14.15.5
+
+Platform: 
+  darwin x64
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: Couldn't find a package.json file in "/Users/HusseinATejan/Desktop/learning-react"
+      at new MessageError (/usr/local/lib/node_modules/yarn/lib/cli.js:186:110)
+      at /usr/local/lib/node_modules/yarn/lib/cli.js:40048:15
+      at Generator.next (<anonymous>)
+      at step (/usr/local/lib/node_modules/yarn/lib/cli.js:98:30)
+      at /usr/local/lib/node_modules/yarn/lib/cli.js:109:13
